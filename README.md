@@ -1,5 +1,5 @@
 # API-Rest
-Fake Rest API, provided by JSON Server.
+Fake Rest API, provided by JSON Server with Javascript.
 
 To perform a local installation globally, use the command:
 
