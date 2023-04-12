@@ -1,0 +1,51 @@
+{
+  "saint": [
+    {
+      "id": 1,
+      "name": "Seiya",
+      "constellation": "Pegasus"
+    },
+    {
+      "id": 2,
+      "name": "Shiryu",
+      "constellation": "Dragon"
+    },
+    {
+      "id": 3,
+      "name": "Hyoga",
+      "constellation": "Cygnus"
+    },
+    {
+      "id": 4,
+      "name": "Shun",
+      "constellation": "Andromeda"
+    },
+    {
+      "id": 5,
+      "name": "Ikki",
+      "constellation": "Phoenix"
+    }
+  ],
+  "gods": [
+    {
+      "id": 1,
+      "name": "Athera",
+      "of": "Earth"
+    },
+    {
+      "id": 2,
+      "name": "Poseidon",
+      "of": "Sea"
+    },
+    {
+      "id": 3,
+      "name": "Hades",
+      "of": "Underworld"
+    },
+    {
+      "id": 4,
+      "name": "Zeus",
+      "of": "Sky"
+    }
+  ]
+}
