@@ -1,5 +1,6 @@
 # API-Rest
-Fake Rest API, provided by JSON Server with Javascript.
+API Rest CRUD consumption with Javascript using JSON Server to simulate the backend.
+JSON Server requires Nodejs to be installed.
 
 To perform a local installation globally, use the command:
 
